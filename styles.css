@@ -1,10 +1,15 @@
 .main-header {
   background-image: url("mybanner.jpg");
-  background-size: cover;
+ 
+
+}
+
+.heading{
+  font-family: serif;
 
 }
 
 .intro{
-  font-family: serif;
+  font-family: arial;
 
 }
